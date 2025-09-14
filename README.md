@@ -100,7 +100,9 @@ Simple grade/wind inputs.
 
 Non-constant driveline/regen efficiency maps.
 
-License
+License 
+
+sample 
 
 MIT (or your preferred license).
 
