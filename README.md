@@ -102,8 +102,6 @@ Non-constant driveline/regen efficiency maps.
 
 License 
 
-sample 
-
 MIT (or your preferred license).
 
 Citation / acknowledgment
