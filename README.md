@@ -1,4 +1,4 @@
-# EV Longitudinal Model (Colab-ready)
+# EV Longitudinal Model 
 
 A Colab/Jupyter-friendly Python script that simulates **longitudinal dynamics** for a **Tesla Model 3 LR AWD (2019–2020)**, calibrates **0–100 km/h**, runs a **combined drive cycle (city + highway)** or your **custom cycle**, and estimates **energy use & range** across **Mild / Average / Cold** scenarios — **without saving files**.
 
